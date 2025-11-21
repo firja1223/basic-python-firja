@@ -7,3 +7,6 @@ Python basics that will be discussed
 3.Numbers and Math
 4.Functions and Loops
 5.Conditional Logic andControl Flow
+
+
+-By Firja
