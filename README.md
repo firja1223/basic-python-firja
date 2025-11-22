@@ -6,7 +6,7 @@ Python basics that will be discussed
 2.Strings and String Methods
 3.Numbers and Math
 4.Functions and Loops
-5.Conditional Logic andControl Flow
+5.Conditional Logic and Control Flow
 
 
 -By Firja
